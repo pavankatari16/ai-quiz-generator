@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "title": "Artificial intelligence - Wikipedia",
+    "date_generated": "2025-11-16T10:30:45.123456",
+    "full_quiz_data": {
+      "title": "Artificial Intelligence Quiz",
+      "questions": [
+        {
+          "question": "What does AI stand for?",
+          "choices": ["Automated Intelligence", "Artificial Intelligence", "Applied Innovation", "Automated Interaction"],
+          "answer": 1
+        },
+        {
+          "question": "In what year was the term 'Artificial Intelligence' coined?",
+          "choices": ["1950", "1956", "1960", "1974"],
+          "answer": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "title": "Machine learning - Wikipedia",
+    "date_generated": "2025-11-16T11:15:30.654321",
+    "full_quiz_data": {
+      "title": "Machine Learning Fundamentals",
+      "questions": [
+        {
+          "question": "What is the primary difference between supervised and unsupervised learning?",
+          "choices": ["Supervised learning uses labeled data", "Unsupervised learning is faster", "Supervised is only for classification", "Unsupervised needs more power"],
+          "answer": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "url": "https://en.wikipedia.org/wiki/Neural_network",
+    "title": "Neural network - Wikipedia",
+    "date_generated": "2025-11-16T12:45:15.987654",
+    "full_quiz_data": {
+      "title": "Deep Learning and Neural Networks",
+      "questions": [
+        {
+          "question": "What is a neuron in the context of artificial neural networks?",
+          "choices": ["A biological cell", "A computational unit", "A type of function", "A layer"],
+          "answer": 1
+        }
+      ]
+    }
+  }
+]

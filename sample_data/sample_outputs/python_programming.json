@@ -1,0 +1,30 @@
+{
+  "id": 3,
+  "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+  "title": "Python (programming language)",
+  "summary": "Python is a high-level, interpreted programming language known for its readability and broad standard library. It supports multiple programming paradigms and is widely used in web development, data science, and automation.",
+  "sections": ["History", "Syntax and semantics", "Libraries", "Use cases"],
+  "key_entities": {
+    "people": ["Guido van Rossum"],
+    "organizations": ["Python Software Foundation"],
+    "locations": ["Netherlands"]
+  },
+  "quiz": [
+    {
+      "question": "Who created Python?",
+      "options": ["Dennis Ritchie", "Bjarne Stroustrup", "Guido van Rossum", "Ken Thompson"],
+      "correct_answer": 2,
+      "explanation": "Guido van Rossum created Python and released it in 1991.",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which of the following is a feature of Python?",
+      "options": ["Manual memory management", "Readability and a large standard library", "Lack of libraries", "Only functional programming"],
+      "correct_answer": 1,
+      "explanation": "Python emphasizes readability and has a large standard library supporting many tasks.",
+      "difficulty": "Easy"
+    }
+  ],
+  "related_topics": ["Programming languages", "Scripting", "Data science"],
+  "date_generated": "2025-11-16T12:10:00Z"
+}

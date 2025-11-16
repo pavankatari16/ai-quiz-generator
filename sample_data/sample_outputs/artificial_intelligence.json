@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "title": "Artificial intelligence",
+  "summary": "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. AI research aims to create systems that can perform tasks requiring human intelligence such as visual perception, speech recognition, decision-making, and language translation.",
+  "sections": ["History", "Approaches", "Applications", "Ethics"],
+  "key_entities": {
+    "people": ["John McCarthy", "Alan Turing"],
+    "organizations": ["OpenAI", "Google"],
+    "locations": ["United States"]
+  },
+  "quiz": [
+    {
+      "question": "Which of the following is a primary goal of AI research?",
+      "options": ["Creating physical robots only", "Developing systems that perform tasks requiring human intelligence", "Eliminating the need for computers", "Building databases"],
+      "correct_answer": 1,
+      "explanation": "AI research focuses on creating systems capable of tasks that typically require human intelligence.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Who is often called the father of AI?",
+      "options": ["Ada Lovelace", "John McCarthy", "Isaac Newton", "Geoffrey Hinton"],
+      "correct_answer": 1,
+      "explanation": "John McCarthy coined the term 'artificial intelligence' and is considered one of the founders of the field.",
+      "difficulty": "Medium"
+    }
+  ],
+  "related_topics": ["Machine learning", "Neural networks", "Robotics"],
+  "date_generated": "2025-11-16T12:05:00Z"
+}

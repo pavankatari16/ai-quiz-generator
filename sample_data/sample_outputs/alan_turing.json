@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. He is widely considered to be the father of theoretical computer science and artificial intelligence. During World War II he worked for the Government Code and Cypher School at Bletchley Park, where he played a pivotal role in breaking the German Enigma codes.",
+  "sections": ["Life", "Work", "Cryptanalysis", "Legacy"],
+  "key_entities": {
+    "people": ["Alan Turing", "Winston Churchill", "Max Newman"],
+    "organizations": ["Government Code and Cypher School", "University of Manchester"],
+    "locations": ["United Kingdom", "Bletchley Park"]
+  },
+  "quiz": [
+    {
+      "question": "What is Alan Turing widely considered the father of?",
+      "options": ["Modern art", "Theoretical computer science", "Molecular biology", "Economics"],
+      "correct_answer": 1,
+      "explanation": "Turing made foundational contributions to theoretical computer science and is often called the father of the field.",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Where did Turing work during World War II to break codes?",
+      "options": ["Harvard University", "Bletchley Park", "MIT", "University of Cambridge"],
+      "correct_answer": 1,
+      "explanation": "Turing worked at Bletchley Park breaking the German Enigma codes.",
+      "difficulty": "Easy"
+    }
+  ],
+  "related_topics": ["Cryptanalysis", "Computing", "Artificial intelligence"],
+  "date_generated": "2025-11-16T12:00:00Z"
+}

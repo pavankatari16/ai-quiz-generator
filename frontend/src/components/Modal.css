@@ -1,0 +1,107 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: white;
+  border-radius: 8px;
+  max-width: 700px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 30px;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: #999;
+  transition: color 0.3s;
+}
+
+.modal-close:hover {
+  color: #333;
+}
+
+.modal-content h2 {
+  margin-top: 0;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 15px;
+}
+
+.modal-meta {
+  color: #666;
+  font-size: 14px;
+  margin: 12px 0;
+}
+
+.modal-meta a {
+  color: #007bff;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.modal-meta a:hover {
+  text-decoration: underline;
+}
+
+.modal-questions {
+  margin-top: 20px;
+}
+
+.modal-question {
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.modal-question h4 {
+  margin-top: 0;
+  color: #333;
+}
+
+.modal-question-text {
+  color: #333;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+.modal-choices {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.modal-choices li {
+  padding: 10px;
+  margin: 6px 0;
+  background-color: white;
+  border-radius: 4px;
+  border-left: 3px solid transparent;
+}
+
+.modal-choices li.correct-answer {
+  background-color: #d4edda;
+  border-left-color: #28a745;
+  color: #155724;
+  font-weight: bold;
+}

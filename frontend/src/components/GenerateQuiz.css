@@ -1,0 +1,130 @@
+.generate-quiz-container {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.generate-quiz-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.quiz-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.url-input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.url-input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+}
+
+.submit-btn {
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.submit-btn:hover:not(:disabled) {
+  background-color: #0056b3;
+}
+
+.submit-btn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+.error-message {
+  background-color: #f8d7da;
+  color: #721c24;
+  padding: 12px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  border: 1px solid #f5c6cb;
+}
+
+.quiz-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-card h3 {
+  margin-top: 0;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+}
+
+.quiz-meta {
+  color: #666;
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.quiz-meta a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.quiz-meta a:hover {
+  text-decoration: underline;
+}
+
+.questions {
+  margin-top: 20px;
+}
+
+.question-card {
+  background-color: white;
+  border-left: 4px solid #007bff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.question-card h4 {
+  margin-top: 0;
+  color: #333;
+}
+
+.choices {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.choices li {
+  padding: 8px;
+  margin: 5px 0;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  border-left: 3px solid transparent;
+}
+
+.choices li.correct {
+  background-color: #d4edda;
+  border-left-color: #28a745;
+  color: #155724;
+  font-weight: bold;
+}

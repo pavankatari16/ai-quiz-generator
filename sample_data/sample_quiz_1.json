@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "title": "Artificial intelligence - Wikipedia",
+  "date_generated": "2025-11-16T10:30:45.123456",
+  "full_quiz_data": {
+    "title": "Artificial Intelligence Quiz",
+    "questions": [
+      {
+        "question": "What does AI stand for?",
+        "choices": [
+          "Automated Intelligence",
+          "Artificial Intelligence",
+          "Applied Innovation",
+          "Automated Interaction"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In what year was the term 'Artificial Intelligence' coined?",
+        "choices": [
+          "1950",
+          "1956",
+          "1960",
+          "1974"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is NOT a type of machine learning?",
+        "choices": [
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Reinforcement Learning",
+          "Deterministic Learning"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the primary goal of artificial intelligence?",
+        "choices": [
+          "To replace all human jobs",
+          "To create systems that can perform tasks requiring human intelligence",
+          "To make computers faster",
+          "To reduce electricity consumption"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which company developed ChatGPT?",
+        "choices": [
+          "Google",
+          "Meta",
+          "OpenAI",
+          "Microsoft"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": 3,
+  "url": "https://en.wikipedia.org/wiki/Neural_network",
+  "title": "Neural network - Wikipedia",
+  "date_generated": "2025-11-16T12:45:15.987654",
+  "full_quiz_data": {
+    "title": "Deep Learning and Neural Networks",
+    "questions": [
+      {
+        "question": "What is a neuron in the context of artificial neural networks?",
+        "choices": [
+          "A biological cell in the brain",
+          "A computational unit that takes weighted inputs and produces an output",
+          "A type of activation function",
+          "A layer in the neural network"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which activation function is most commonly used in hidden layers of modern deep neural networks?",
+        "choices": [
+          "Sigmoid",
+          "Tanh",
+          "ReLU (Rectified Linear Unit)",
+          "Linear"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does backpropagation do in a neural network?",
+        "choices": [
+          "Initializes the network weights randomly",
+          "Propagates errors backward to update weights and biases",
+          "Prevents overfitting by dropping random neurons",
+          "Normalizes the input features"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which type of neural network is best suited for processing sequential data like text or time series?",
+        "choices": [
+          "Convolutional Neural Networks (CNN)",
+          "Recurrent Neural Networks (RNN)",
+          "Fully Connected Networks",
+          "Autoencoders"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the purpose of a learning rate in neural network training?",
+        "choices": [
+          "To determine the accuracy of the model",
+          "To control the step size of weight updates during training",
+          "To specify the number of training epochs",
+          "To evaluate the model on test data"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

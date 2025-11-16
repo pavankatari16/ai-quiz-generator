@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "url": "https://en.wikipedia.org/wiki/Machine_learning",
+  "title": "Machine learning - Wikipedia",
+  "date_generated": "2025-11-16T11:15:30.654321",
+  "full_quiz_data": {
+    "title": "Machine Learning Fundamentals",
+    "questions": [
+      {
+        "question": "What is the primary difference between supervised and unsupervised learning?",
+        "choices": [
+          "Supervised learning uses labeled data, unsupervised learning does not",
+          "Unsupervised learning is faster than supervised learning",
+          "Supervised learning is only for classification tasks",
+          "Unsupervised learning requires more computational power"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which algorithm is commonly used for classification tasks?",
+        "choices": [
+          "Linear Regression",
+          "K-Means Clustering",
+          "Support Vector Machine (SVM)",
+          "Principal Component Analysis (PCA)"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does overfitting mean in machine learning?",
+        "choices": [
+          "The model performs poorly on both training and test data",
+          "The model performs well on training data but poorly on test data",
+          "The model takes too long to train",
+          "The model uses too many features"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is a regularization technique used to prevent overfitting?",
+        "choices": [
+          "Dropout",
+          "Data normalization",
+          "Feature scaling",
+          "Cross-validation"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is the purpose of a confusion matrix?",
+        "choices": [
+          "To normalize input features",
+          "To evaluate the performance of a classification model",
+          "To reduce the dimensionality of data",
+          "To generate synthetic training data"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}
